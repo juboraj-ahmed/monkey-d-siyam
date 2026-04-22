@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juboraj Ahmed</h1>
 <h3 align="center">An undergrad student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monkey-d-siyam&label=Profile%20views&color=0e75b6&style=flat" alt="monkey-d-siyam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juboraj-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="juboraj-ahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monkey-d-siyam" alt="monkey-d-siyam" /></a> </p>
 
