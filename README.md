@@ -1,68 +1,72 @@
 <h1 align="center">Hi 👋, I'm Juboraj Ahmed</h1>
-<h3 align="center">CSE Undergraduate | Aspiring AI Engineer</h3>
+<h3 align="center">CSE Undergraduate | AI & NLP Enthusiast | Future Researcher</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=juboraj-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="juboraj-ahmed" />
+<p align="center">
+  <a href="mailto:juborajahmed0213@gmail.com">📫 Email</a> •
+  <a href="https://www.linkedin.com/in/juboraj-ahmed-95709824a/">LinkedIn</a> •
+  <a href="https://github.com/juboraj-ahmed">GitHub</a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=juboraj-ahmed" alt="juboraj-ahmed" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-- 🌱 Currently learning **AI, Machine Learning, and Deep Learning**
-- 💬 Ask me about **Python, OOP, Data Structures, Algorithms, Django, MySQL**
-- 📫 Reach me at **juborajahmed0213@gmail.com**
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/juboraj-ahmed-95709824a/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/juborajahmed07" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/______siyam/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juboraj-ahmed&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a>
-<a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
+### 🧠 About Me
+I’m a Computer Science undergraduate passionate about building intelligent systems and solving real-world problems through **AI, Machine Learning, and Software Engineering**.
+
+- 🔬 Interested in **AI, NLP, Federated Learning, and Intelligent Systems**
+- 💻 Strong foundation in **Data Structures, Algorithms, and Backend Development**
+- 🛠️ Currently working with **Django, MySQL, and scalable web systems**
+- 📚 Preparing for **graduate studies (AI/CS research track)**
+
+---
+
+### 🚀 Tech Stack
+<p align="center">
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" /></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juboraj-ahmed&show_icons=true&locale=en&layout=compact" />
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juboraj-ahmed&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juboraj-ahmed&layout=compact" height="160"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juboraj-ahmed&show_icons=true&locale=en" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juboraj-ahmed" height="160"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juboraj-ahmed" />
+---
+
+### 🎯 Current Focus
+- 🧩 Building **real-world full-stack systems**
+- 🤖 Exploring **NLP models and deep learning architectures**
+- 📡 Researching **Federated Learning for healthcare applications**
+- 🏗️ Developing projects with **clean architecture & scalability in mind**
+
+---
+
+### 🤝 Let’s Collaborate
+I’m open to:
+- Research collaborations (AI / NLP / ML)
+- Internship opportunities (Software Engineering / AI)
+- Interesting projects that solve meaningful problems
+
+---
+
+<p align="center">
+  ⚡ "Building systems that think, learn, and make an impact."
 </p>
