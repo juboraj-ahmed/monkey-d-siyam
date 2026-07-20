@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juboraj-ahmed&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=juboraj-ahmed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -25,16 +25,16 @@ I’m a Computer Science undergraduate passionate about building intelligent sys
 
 ### 🚀 Tech Stack
 <p align="center">
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
-<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" /></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" /></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" /></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
 </p>
 
 ---
