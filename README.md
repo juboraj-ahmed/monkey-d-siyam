@@ -41,12 +41,12 @@ I’m a Computer Science undergraduate passionate about building intelligent sys
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juboraj-ahmed&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juboraj-ahmed&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juboraj-ahmed&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juboraj-ahmed&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juboraj-ahmed" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juboraj-ahmed&theme=transparent&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
 
 ---
