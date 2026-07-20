@@ -41,12 +41,18 @@ I’m a Computer Science undergraduate passionate about building intelligent sys
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juboraj-ahmed&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juboraj-ahmed&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages"/>
+  <a href="https://github.com/juboraj-ahmed">
+    <img src="https://github-readme-stats.vercel.app/api?username=juboraj-ahmed&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/juboraj-ahmed">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juboraj-ahmed&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juboraj-ahmed&theme=transparent&hide_border=true" height="160" alt="GitHub Streak"/>
+  <a href="https://github.com/juboraj-ahmed">
+    <img src="https://streak-stats.demolab.com/?user=juboraj-ahmed&theme=transparent&hide_border=true" height="160" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
