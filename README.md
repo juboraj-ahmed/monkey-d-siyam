@@ -1,78 +1,126 @@
-<h1 align="center">Hi 👋, I'm Juboraj Ahmed</h1>
-<h3 align="center">CSE Undergraduate | AI & NLP Enthusiast | Future Researcher</h3>
+# Hi, I'm Juboraj Ahmed 👋
 
-<p align="center">
-  <a href="mailto:juborajahmed0213@gmail.com">📫 Email</a> •
-  <a href="https://www.linkedin.com/in/juboraj-ahmed-95709824a/">LinkedIn</a> •
-  <a href="https://github.com/juboraj-ahmed">GitHub</a>
-</p>
+Computer Science graduate from **BRAC University** with research interests in **Trustworthy AI, Vision-Language Models, Federated Learning, LLM Security, and AI for Healthcare**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juboraj-ahmed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+My work is increasingly focused on understanding how intelligent systems behave under unreliable, adversarial, or socially conflicting information—and how we can make these systems more reliable in high-stakes settings.
 
 ---
 
-### 🧠 About Me
-I’m a Computer Science undergraduate passionate about building intelligent systems and solving real-world problems through **AI, Machine Learning, and Software Engineering**.
+## 🔬 Research Interests
 
-- 🔬 Interested in **AI, NLP, Federated Learning, and Intelligent Systems**
-- 💻 Strong foundation in **Data Structures, Algorithms, and Backend Development**
-- 🛠️ Currently working with **Django, MySQL, and scalable web systems**
-- 📚 Preparing for **graduate studies (AI/CS research track)**
-
----
-
-### 🚀 Tech Stack
-<p align="center">
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-</p>
+* **Trustworthy Artificial Intelligence**
+* **Vision-Language Models (VLMs)**
+* **Large Language Model Security**
+* **Federated & Privacy-Preserving Machine Learning**
+* **Medical AI and Healthcare Applications**
+* **Robustness, Reliability, and Model Evaluation**
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <a href="https://github.com/juboraj-ahmed">
-    <img src="https://github-readme-stats.vercel.app/api?username=juboraj-ahmed&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/juboraj-ahmed">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juboraj-ahmed&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
-  </a>
-</p>
+## 🧪 Current Research
 
-<p align="center">
-  <a href="https://github.com/juboraj-ahmed">
-    <img src="https://streak-stats.demolab.com/?user=juboraj-ahmed&theme=transparent&hide_border=true" height="160" alt="GitHub Streak" />
-  </a>
-</p>
+### Trustworthy Vision-Language Models for Medical Image Understanding
 
----
+Currently investigating the reliability of medical vision-language models when their visual evidence conflicts with misleading textual or social cues.
 
-### 🎯 Current Focus
-- 🧩 Building **real-world full-stack systems**
-- 🤖 Exploring **NLP models and deep learning architectures**
-- 📡 Researching **Federated Learning for healthcare applications**
-- 🏗️ Developing projects with **clean architecture & scalability in mind**
+A particular focus of this work is **prompt-induced diagnostic capitulation**—understanding when and why a model abandons an evidence-supported medical answer after receiving authority-based, emotional, or corrective pressure.
+
+**Current directions include:**
+
+* Medical VLM evaluation
+* Diagnostic consistency under social pressure
+* Multimodal reasoning and visual grounding
+* Failure analysis and mechanistic investigation
+* Inference-time reliability interventions
 
 ---
 
-### 🤝 Let’s Collaborate
-I’m open to:
-- Research collaborations (AI / NLP / ML)
-- Internship opportunities (Software Engineering / AI)
-- Interesting projects that solve meaningful problems
+## 📄 Research & Ongoing Work
+
+### Intra-Module Subspace Coherence
+
+**A Geometric Defense Against Composite Prompt Poisoning in Federated LoRA**
+
+Ongoing research exploring robustness against composite prompt-poisoning attacks in federated parameter-efficient fine-tuning.
+
+### JASAL — A Remote Patient Health Monitoring System (Driven by Federated Learning)
+
+Undergraduate thesis focused on privacy-preserving machine learning for distributed healthcare environments.
+
+The system combines:
+
+* Federated learning across non-IID healthcare clients
+* Deep autoencoder-based learning
+* Differential privacy
+* Secure aggregation
+* Uncertainty estimation
+* Adaptive patient-specific decision thresholds
+
+Experiments were conducted using **32,796 patient records across 10 federated clients**.
 
 ---
 
-<p align="center">
-  ⚡ "Building systems that think, learn, and make an impact."
-</p>
+## 🧩 Selected Research Projects
+
+### 🛡️ PromptPoisonLab
+
+Experimental framework for studying prompt-poisoning attacks and robustness in language-model systems.
+
+* 30+ poisoning strategies
+* Genetic prompt mutation
+* Semantic deduplication using FAISS
+* Attack and robustness evaluation pipelines
+
+### 🔐 Prompt Injection Playground
+
+A security-oriented testbed for evaluating prompt-injection vulnerabilities in LLM applications.
+
+* Multiple prompt-injection attack classes
+* Automated evaluation
+* LLM-as-a-judge and heuristic scoring
+* Failure-case analysis
+
+### 🏥 MediTrack
+
+Machine-learning-assisted healthcare risk assessment platform integrating predictive modeling with a Django-based application.
+
+---
+
+## 🛠️ Research & Technical Toolkit
+
+**Languages:**
+Python · C++ · Java · JavaScript · SQL
+
+**Machine Learning:**
+PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas
+
+**AI / Research:**
+Federated Learning · Vision-Language Models · Large Language Models · NLP · Deep Learning · Model Evaluation · Uncertainty Estimation
+
+**Development & Experimentation:**
+Git · GitHub · Docker · Linux · Google Colab · Jupyter · Django · Flask
+
+---
+
+
+---
+
+## 🎯 Current Focus
+
+I am currently focused on:
+
+* Investigating **trustworthiness failures in medical Vision-Language Models**
+* Designing controlled experiments for **diagnostic capitulation and multimodal reliability**
+* Studying **prompt poisoning and adversarial behavior in LLM systems**
+* Developing reproducible research code and evaluation pipelines
+* Preparing ongoing research for publication
+
+---
+
+## 🤝 Research Collaboration
+
+I am interested in research collaborations involving:
+
+**Trustworthy AI · Medical AI · Vision-Language Models · Federated Learning · LLM Security · Privacy-Preserving Machine Learning**
+
+I am particularly interested in problems involving the **reliability, robustness, and safety of AI systems in high-stakes environments**.
